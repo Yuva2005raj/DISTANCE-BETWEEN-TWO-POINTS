@@ -8,7 +8,9 @@ Step 1: Get the two values from the user
 ### Step 2:
 Assign the value of second variable to a temporary variable
 ### Step 3:
-Substitute the values in the distance formula formula
+Substitute the values in the distance formula 
+![image](https://user-images.githubusercontent.com/118343998/230821839-a0cf3cea-395e-4616-b4cd-a30a65a0a011.png)
+
 ### Step 4:
 Assign the value in temporary variable to the first variable
 ### Step 5:
